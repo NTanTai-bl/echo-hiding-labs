@@ -3,4 +3,3 @@ imodule https://github.com/NTanTai-bl/echo-hiding-labs/raw/refs/heads/main/steg-
 
 imodule https://github.com/NTanTai-bl/echo-hiding-labs/raw/refs/heads/main/stego-audio-echohiding-decode.tar
 
-imodule https://github.com/NTanTai-bl/echo-hiding-labs/raw/refs/heads/main/stego-audio-echohiding-detect.tar
